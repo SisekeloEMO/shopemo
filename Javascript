@@ -1,0 +1,9 @@
+<!-- Add this in your index.html -->
+<button onclick="alert('Welcome to EMO Studios!')">Click Me!</button>
+
+<!-- Add this JavaScript inside a <script> tag or a separate .js file -->
+<script>
+  function showAlert() {
+    alert("Welcome to EMO Studios!");
+  }
+</script>
